@@ -29,7 +29,7 @@
 
 ## 🚀 Installazione
 
-1.  Scarica l'ultimo **Installer** dalla sezione [Releases](https://github.com/andreailproplayer23-creator/SoundBar-PRO/releases)).
+1.  Scarica l'ultimo **Installer** dalla sezione [Releases](https://github.com/andreailproplayer23-creator/SoundBar-PRO/releases).
 2.  Esegui il setup e accetta i termini di licenza.
 3.  Avvia **SoundBar PRO** dal desktop.
 
