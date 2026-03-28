@@ -1,0 +1,31 @@
+📄 Accordo di Licenza per l'Utente Finale (EULA)
+Software: SoundBar PRO
+Sviluppatore: [Il Tuo Nome/Nickname o GitHub]
+Versione: 1.0 (2026)
+
+1. Concessione della Licenza
+L'autore concede all'utente una licenza non esclusiva e non trasferibile per l'utilizzo di SoundBar PRO. Il software è destinato all'uso personale e professionale (streaming, gaming, produzione audio).
+
+2. Restrizioni
+L'utente non può:
+
+Decompilare, decodificare o tentare di estrarre il codice sorgente del software (se distribuito come EXE).
+
+Rivendere, affittare o distribuire il software a fini commerciali senza l'esplicito consenso scritto dell'autore.
+
+Rimuovere o alterare marchi o loghi presenti nell'interfaccia.
+
+3. Proprietà Intellettuale
+Tutti i diritti di proprietà intellettuale relativi al software (inclusi codice, icone e design) appartengono allo sviluppatore. Le librerie di terze parti utilizzate (come Pygame, CustomTkinter, Pystray) rimangono di proprietà dei rispettivi autori sotto le relative licenze open-source (MIT/LGPL).
+
+4. Limitazione di Responsabilità
+Il software viene fornito "così com'è", senza garanzie di alcun tipo. L'autore non è responsabile per:
+
+Danni diretti o indiretti derivanti dall'uso o dall'impossibilità di usare il software.
+
+Problemi di compatibilità hardware o conflitti con altri driver audio.
+
+Uso improprio dei file audio caricati dall'utente (rispetto dei copyright dei suoni).
+
+5. Funzionamento in Background
+Il software include una funzione di monitoraggio delle Hotkey globale che funziona in background. L'utente è consapevole che il software rimarrà attivo nel System Tray (area di notifica) fino alla chiusura definitiva tramite il menu "Esci".
